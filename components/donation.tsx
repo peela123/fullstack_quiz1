@@ -5,7 +5,7 @@ import dayjs from "dayjs";
 
 export default function Donation() {
   return (
-    <Card withBorder shadow="xs" bg="gray.3">
+    <Card withBorder shadow="xs" bg="#5c7cfa">
       <Group mb={20}>
         <Title order={1} color="gray">
           Total
